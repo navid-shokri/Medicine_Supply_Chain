@@ -75,6 +75,8 @@ $ ./startFabric.sh
 
 
 #### then go to 
+> Note:
+>> npm version required: { node: '^10.15.3 || ^12.15.0', npm: '^6.4.1' }
 $ cd javascript  
 $npm install or npm update  
 $ cd bin  
