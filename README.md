@@ -54,6 +54,11 @@ export GOROOT=/usr/local/go(downloaded files and dependencies)
 export GOPATH=$HOME/go(my go files and pkg will be here)  
 export PATH=$PATH:$GOPATH/bin:$GOROOT/bin
 
+> Note:
+>> You sould install facric ledger on you machine using this guidelines:
+>> https://hyperledger-fabric.readthedocs.io/en/release-2.2/install.html
+
+
 #### Set fabric binary and fabric CFG_PATH
 export MEDICHAIN_PATH=$HOME/Medicine_Supply_Chain/Medi_Chain  
 export FABRIC_CFG_PATH=$HOME/Medicine_Supply_Chain/Medi_Chain/config/  
