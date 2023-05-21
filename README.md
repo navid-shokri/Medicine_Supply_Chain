@@ -55,6 +55,7 @@ export GOPATH=$HOME/go(my go files and pkg will be here)
 export PATH=$PATH:$GOPATH/bin:$GOROOT/bin
 
 > Note:
+>> Docker and Docker Compose are required
 >> You sould install facric ledger on you machine using this guidelines:
 >> https://hyperledger-fabric.readthedocs.io/en/release-2.2/install.html
 
